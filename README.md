@@ -15,7 +15,7 @@
 <ul>
   <li>src
     <ul>
-      <li>mergesort
+      <li>quicksort
         <ul>
           <li>QuickSortProcess.java</li>
         </ul>
